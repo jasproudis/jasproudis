@@ -5,6 +5,16 @@
 
 - 📫 How to reach me **jasproudis@gmail.com**
 
+About me:
+
+· Loyalty (to the cause)
+· Leadership (by example)
+· Discipline (refer to 7 habits of highly effective people)
+· Professionalism (deal with the matter, not with the person)
+· Fighting Spirit (determination)
+· Ethics (integrity)
+· Care (empathy for subordinates)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
