@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasproudis&label=Profile%20views&color=0e75b6&style=flat" alt="jasproudis" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning and .Net Development**
 
 - 🌱 I’m currently learning **Problem Solving with Artificial Intelligence and Advanced Estimation Algorithms**
 
