@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Problem Solving with Artificial Intelligence and Advanced Estimation Algorithms**
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Data Science - Advanced Estimation Algorithms - Deep Learning Networks - Artificial Intelligence**
 
 - 📫 How to reach me **jasproudis@gmail.com**
 
