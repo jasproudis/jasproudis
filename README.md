@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine Learning and .Net Development**
 
-- 🌱 I’m currently learning **Problem Solving with Artificial Intelligence and Advanced Estimation Algorithms**
+- 🌱 I’m currently learning and teaching **Problem Solving with Artificial Intelligence and Advanced Estimation Algorithms**
 
 - 💬 Ask me about **Data Science - Advanced Estimation Algorithms - Artificial Neural Networks**
 
