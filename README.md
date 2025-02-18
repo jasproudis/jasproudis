@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Iasonas-Christophoros Asproudis</h1>
+<h1 align="center">Hi 👋, I'm Iasonas-Christoforos Asproudis</h1>
 <h3 align="center">Data Scientist from Greece</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasproudis&label=Profile%20views&color=0e75b6&style=flat" alt="jasproudis" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning and Deep Learning with Python Coding**
 
-- 🌱 I’m currently learning and teaching **Problem Solving with Artificial Intelligence and Advanced Estimation Algorithms**
+- 🌱 I’m currently studing **Data Science**
 
 - 💬 Ask me about **Data Science - Advanced Estimation Algorithms - Artificial Neural Networks**
 
