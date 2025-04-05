@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iasonas-Christoforos Asproudis</h1>
-<h3 align="center">Data Scientist | AI / Machine Learning Engineer | AI Researcher</h3>
+<h3 align="center">Data Scientist | AI / ML Engineer | AI Researcher</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jasproudis&label=Profile%20views&color=0e75b6&style=flat" alt="jasproudis" />
