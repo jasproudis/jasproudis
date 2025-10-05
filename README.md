@@ -29,7 +29,7 @@ MSc in Data Science | Athens University of Economics and Business (AUEB)
 ### Data Engineering & Databases
 - **Big Data:** Apache Spark, Hadoop
 - **Databases:** MySQL, PostgreSQL, Microsoft SQL Server, MongoDB, Oracle
-- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
+- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Plotly
 
 ### Cloud, DevOps & Deployment
 - **Cloud:** AWS, Azure
