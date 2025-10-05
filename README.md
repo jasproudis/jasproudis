@@ -1,73 +1,110 @@
 <h1 align="center">Hi, I'm Iasonas-Christoforos Asproudis</h1>
-<h3 align="center">Data Scientist | AI / ML Engineer | AI Researcher</h3>
+<h3 align="center">Lead Data Scientist in Progress | AI / ML Engineer | CX & Retail Analytics Specialist</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=jasproudis&label=Profile%20views&color=0e75b6&style=flat" alt="jasproudis" />
 </p>
 
-## About Me
+---
 
-I am a **Data Scientist** with expertise in **Machine Learning, Deep Learning, and AI-driven solutions**. My work focuses on:
+## 👨‍💻 About Me
 
-**Current Focus:**  
-Building **interpretable AI models** for **social media sentiment analysis**, integrating **BERT and Inception-v3** for multimodal classification.
+I am a **Data Scientist and AI/ML Engineer** with a strong foundation in **retail analytics, pricing strategy, and customer experience platforms**.  
+I recently **completed my MSc in Data Science (June 2025, AUEB)** and I am now pursuing my career goal of becoming a **Lead Data Scientist**, while building **advanced AI engineering skills** to deliver scalable, production-ready AI systems.  
 
-**Education:**  
-MSc in Data Science | Athens University of Economics and Business (AUEB)
+💡 My profile combines:
+- **Strategic Data Science** → interpretable ML models, feature engineering, applied research  
+- **AI Engineering** → deployment pipelines, MLOps, containerization, AI agents for real-world use  
+- **Domain Expertise** → retail, pricing, customer personalization, CX platforms  
 
-## Skills & Technologies
+---
 
-### Programming Languages
-- **Python, R, SQL, Java, C, C#, VB.NET, HTML**
+## 🔭 Current Focus
+- Leading projects in **recommender systems, forecasting, and personalization** for retail and CX  
+- Building **AI agents** with LangChain, Flowise, and Supabase  
+- Developing **MLOps pipelines** for CI/CD, Docker/Kubernetes deployment, and Triton inference serving  
+- Bridging **data science insights** with **enterprise AI systems**  
 
-### Machine Learning & AI
-- **Libraries:** Scikit-learn, XGBoost, LightGBM, CatBoost
-- **Deep Learning:** TensorFlow, PyTorch, Keras
-- **NLP:** Hugging Face Transformers, NLTK, SpaCy
-- **Computer Vision:** OpenCV, Inception-v3, YOLO
+---
 
-### Data Engineering & Databases
-- **Big Data:** Apache Spark, Hadoop
-- **Databases:** MySQL, PostgreSQL, Microsoft SQL Server, MongoDB, Oracle
-- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Plotly
+## 🎯 Career Goal
 
-### Cloud, DevOps & Deployment
-- **Cloud:** AWS, Azure
-- **Containerization:** Docker, Kubernetes
-- **MLOps:** CI/CD Pipelines, Model Deployment, Flask, FastAPI
+My long-term aspiration is to grow into a **Lead Data Scientist**, driving **AI-first product development** and **team leadership**,  
+while maintaining strong **AI engineering expertise** to ensure models move seamlessly from research into production.
 
-### Operating Systems & System Administration
-- **Linux (Advanced user, System Administration)**
-- **Windows Server & Desktop**
-- **Virtualization:** VMware, VirtualBox
 
-## Connect with Me
+---
+
+## 🚀 Featured Projects
+
+- 📊 [**Retail Footfall Forecasting**](#) – Demand prediction from sensor data (Xovis)  
+- 🧾 [**Pricing Optimization in Retail**](#) – Advanced EDA & ML for price elasticity and promotion analysis  
+- 🤖 [**Multimodal Sentiment Classifier**](#) – BERT + Inception-v3 for social media content classification  
+- 🔗 [**Airbnb Graph Analysis**](#) – Neo4j & graph algorithms for community detection and link prediction  
+- 🎯 [**Recommender Systems (Clothing Domain)**](#) – Context-aware retrieval models using TensorFlow Recommenders  
+- 🩻 [**MURA Medical Imaging**](#) – CNN and Transfer Learning for abnormality detection  
+
+*(🔗 Replace `#` with your actual repo links once published.)*
+
+---
+
+## 🎓 Academic Work (MSc in Data Science, AUEB)
+
+- **Deep Learning:** MURA dataset (CNN, Transfer Learning, EfficientNetB0)  
+- **Recommender Systems:** Synthetic dataset (10k users, 1k items, TFR models)  
+- **Data Mining:** Neo4j Airbnb graph queries & clustering  
+- **Optimization:** Linear & Combinatorial Optimization (Python/CPLEX)  
+- **Data Challenge:** Kaggle-style competition (6th place with multimodal LR model)  
+
+---
+
+## 🛠️ Skills
+
+### Core
+- **Languages:** Python, R, SQL  
+- **ML/DL:** TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers  
+- **EDA & Feature Engineering:** Pandas, NumPy, Seaborn, Matplotlib, Plotly  
+- **Databases:** PostgreSQL, MySQL, MS SQL Server, MongoDB, Oracle  
+- **Deployment & MLOps:** Docker, FastAPI, CI/CD pipelines  
+- **Systems:** Linux (advanced), Windows Server  
+
+### Familiar
+- Apache Spark, Hadoop  
+- Tableau, Power BI  
+- Kubernetes, Azure, AWS  
+
+### Exploring
+- AI Agents (LangChain, Flowise, Triton Inference Server)  
+- Advanced MLOps orchestration  
+
+---
+
+## 📊 GitHub Activity
+
+![Iasonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasproudis&show_icons=true&theme=tokyonight)
+
+---
+
+## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/iasonas-christoforos-asproudis-2a07505a/)  
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?logo=stackoverflow)](https://stackoverflow.com/users/8138860)  
-**Email:** jasproudis@gmail.com
+📧 **Email:** jasproudis@gmail.com  
 
-## Tools & Technologies
+---
+
+## 🧰 Tools & Technologies
+
 <p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
