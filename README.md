@@ -18,7 +18,7 @@ MSc in Data Science | Athens University of Economics and Business (AUEB)
 ## Skills & Technologies
 
 ### Programming Languages
-- **Python, R, SQL, Java, C, C#, VB.NET, PHP, HTML, JavaScript**
+- **Python, R, SQL, Java, C, C#, VB.NET, HTML, JavaScript**
 
 ### Machine Learning & AI
 - **Libraries:** Scikit-learn, XGBoost, LightGBM, CatBoost
