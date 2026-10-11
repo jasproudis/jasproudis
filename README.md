@@ -1,100 +1,137 @@
-<h1 align="center">Hi, I'm Iasonas-Christoforos Asproudis</h1>
-<h3 align="center"> Data Scientist | AI / ML Engineer | CX & Retail Analytics Specialist</h3>
+<div align="center">
 
----
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:22D3EE&height=210&section=header&text=Iasonas-Christoforos%20Asproudis&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=DS%20AI%2FML%20Lead%20%E2%80%A2%20Retail%20Analytics%20%E2%80%A2%20Customer%20Experience&descSize=17&descAlignY=58)
 
-## 👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iasonas-christoforos-asproudis-2a07505a/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8138860)
+[![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasproudis@gmail.com)
 
-I am a **Data Scientist and AI/ML Engineer** with a strong foundation in **retail analytics, pricing strategy, and customer experience platforms**.  
-I recently **completed my MSc in Data Science (June 2025, AUEB)** and I am now pursuing my career goal of becoming a **Lead Data Scientist**, while building **advanced AI engineering skills** to deliver scalable, production-ready AI systems.  
+### Turning business questions and operational data into useful ML systems
 
-💡 My profile combines:
-- **Strategic Data Science** → interpretable ML models, feature engineering, applied research  
-- **AI Engineering** → deployment pipelines, MLOps, containerization, AI agents for real-world use  
-- **Domain Expertise** → retail, pricing, customer personalization, CX platforms  
+</div>
 
----
+## 👋 About me
 
-## 🔭 Current Focus
-- Leading projects in **recommender systems, forecasting, and personalization** for retail and CX  
-- Building **AI agents** with LangChain, Flowise, and Supabase  
-- Developing **MLOps pipelines** for CI/CD, Docker/Kubernetes deployment, and Triton inference serving  
-- Bridging **data science insights** with **enterprise AI systems**  
+I'm a **DS AI/ML Lead** working where data science, AI engineering, and retail customer experience meet. I translate business priorities into measurable ML work, guide technical decisions, and help move models from experiments into dependable services.
 
----
+My background spans **retail analytics, pricing strategy, forecasting, recommendations, and customer experience platforms**. I completed my **MSc in Data Science at the Athens University of Economics and Business (AUEB) in June 2025**.
 
-## 🎯 Career Goal
+## 🔄 From data to production
 
-My long-term aspiration is to grow into a **Lead Data Scientist**, driving **AI-first product development** and **team leadership**,  
-while maintaining strong **AI engineering expertise** to ensure models move seamlessly from research into production.
+```mermaid
+flowchart LR
+    A[Retail & CX data] --> B[dbt transformations]
+    B --> I[OpenMetadata & BI]
+    B --> C[Dagster pipelines]
+    C --> D[ML / Deep Learning]
+    D --> E[MLflow & evaluation]
+    E --> F[FastAPI / KServe]
+    F --> G[Docker & zot registry]
+    G --> H[Kubernetes & Argo CD]
+```
 
+I care about the complete lifecycle: reliable data, reproducible experiments, clear evaluation, simple serving contracts, and automated delivery.
 
----
+## 🚀 What I work on
 
-## 🚀 Featured Projects
+| | Focus | Selected experience |
+|:---:|---|---|
+| 📈 | **Forecasting** | Footfall prediction from Xovis sensor data, enriched with weather and calendar effects |
+| 🎯 | **Personalization** | Context-aware retrieval and recommendation systems for retail experiences |
+| 🧾 | **Pricing analytics** | Price elasticity, promotion analysis, and commercial decision support |
+| 🧠 | **Applied AI** | Deep learning, multimodal classification, and Hugging Face model workflows |
+| 🤖 | **Agentic AI** | Stateful agent workflows and visual orchestration with LangGraph and Langflow |
+| 🗂️ | **Data platforms** | Transformation, orchestration, metadata management, and business intelligence |
+| ⚙️ | **ML platforms** | Reproducible pipelines, experiment tracking, scalable inference, and GitOps delivery |
+| 🧭 | **Technical leadership** | Connecting business priorities, system design, and measurable AI outcomes |
 
-- 📊 [**Retail Footfall Forecasting**](#) – Demand prediction from sensor data (Xovis)  
-- 🧾 [**Pricing Optimization in Retail**](#) – Advanced EDA & ML for price elasticity and promotion analysis  
-- 🤖 [**Multimodal Sentiment Classifier**](#) – BERT + Inception-v3 for social media content classification  
-- 🔗 [**Airbnb Graph Analysis**](#) – Neo4j & graph algorithms for community detection and link prediction  
-- 🎯 [**Recommender Systems (Clothing Domain)**](#) – Context-aware retrieval models using TensorFlow Recommenders  
-- 🩻 [**MURA Medical Imaging**](#) – CNN and Transfer Learning for abnormality detection  
+## 🧰 Technology stack
 
-*(🔗 Replace `#` with your actual repo links once published.)*
+<div align="center">
 
----
+### AI & Machine Learning
 
-## 🎓 Academic Work (MSc in Data Science, AUEB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111111)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Langflow](https://img.shields.io/badge/Langflow-7C3AED?style=flat-square)
 
-- **Deep Learning:** MURA dataset (CNN, Transfer Learning, EfficientNetB0)  
-- **Recommender Systems:** Synthetic dataset (10k users, 1k items, TFR models)  
-- **Data Mining:** Neo4j Airbnb graph queries & clustering  
-- **Optimization:** Linear & Combinatorial Optimization (Python/CPLEX)  
-- **Data Challenge:** Kaggle-style competition (6th place with multimodal LR model)  
+### Data & Analytics
 
----
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-654FF0?style=flat-square&logo=dagster&logoColor=white)
+![OpenMetadata](https://img.shields.io/badge/OpenMetadata-7147E8?style=flat-square)
+![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 
-## 🛠️ Skills
+### APIs, MLOps & Delivery
 
-### Core
-- **Languages:** Python, R, SQL  
-- **ML/DL:** TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers  
-- **EDA & Feature Engineering:** Pandas, NumPy, Seaborn, Matplotlib, Plotly  
-- **Databases:** PostgreSQL, MySQL, MS SQL Server, MongoDB, Oracle  
-- **Deployment & MLOps:** Docker, FastAPI, CI/CD pipelines  
-- **Systems:** Linux (advanced), Windows Server  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![KServe](https://img.shields.io/badge/KServe-0F766E?style=flat-square)
+![zot](https://img.shields.io/badge/zot-OCI_Registry-2563EB?style=flat-square&logo=linuxcontainers&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
 
-### Familiar
-- Apache Spark, Hadoop  
-- Tableau, Power BI  
-- Kubernetes, Azure, AWS  
+</div>
 
-### Exploring
-- AI Agents (LangChain, Flowise, Triton Inference Server)  
-- Advanced MLOps orchestration  
+<details>
+<summary><strong>More tools I work with</strong></summary>
+<br>
 
----
+**Modeling:** XGBoost, LightGBM, TensorFlow Recommenders, Transformers<br>
+**Data:** R, MongoDB, MySQL, Microsoft SQL Server, Oracle, Spark, Hadoop<br>
+**Visualization & BI:** Matplotlib, Seaborn, Plotly, Apache Superset, Metabase, Tableau, Power BI<br>
+**Cloud & systems:** AWS, Azure, Windows Server<br>
+**Exploring:** Supabase, Triton Inference Server
 
-## 🤝 Connect with Me
+</details>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/iasonas-christoforos-asproudis-2a07505a/)  
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?logo=stackoverflow)](https://stackoverflow.com/users/8138860)  
-📧 **Email:** jasproudis@gmail.com  
+## 🧪 Selected work
 
----
+### Retail footfall forecasting
 
-## 🧰 Tools & Technologies
+An end-to-end ML pipeline for multi-location visitor forecasting using sensor data, weather, and calendar features—with experiment tracking, automated training, and FastAPI inference.
 
-<p align="left"> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
+`Forecasting` · `Feature engineering` · `MLflow` · `FastAPI` · `Docker`
+
+### Recommendations & multimodal learning
+
+Context-aware clothing recommendations with TensorFlow Recommenders, plus social-media sentiment classification combining BERT text features with Inception-v3 image features.
+
+`Retrieval systems` · `TensorFlow` · `BERT` · `Computer vision`
+
+### Graph analytics & medical imaging
+
+Community detection and link prediction on Airbnb data with Neo4j, alongside MURA abnormality detection using CNNs, transfer learning, and EfficientNetB0.
+
+`Neo4j` · `Graph algorithms` · `PyTorch` · `Transfer learning`
+
+> Some work comes from applied industry projects and some from my MSc coursework. Browse my [public repositories](https://github.com/jasproudis?tab=repositories) to see what is currently available.
+
+## 🌱 Current direction
+
+I'm deepening my work in **ML platform architecture, scalable inference, GitOps, and stateful AI agent workflows**, while continuing to develop the leadership practices that help teams deliver valuable AI systems.
+
+<div align="center">
+
+### Let's connect
+
+If you're working on applied AI, retail intelligence, or production ML, I'd be glad to compare notes.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iasonas--Christoforos_Asproudis-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iasonas-christoforos-asproudis-2a07505a/)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0369A1,100:0F172A&height=100&section=footer)
+
+</div>
