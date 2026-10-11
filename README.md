@@ -79,12 +79,6 @@ while maintaining strong **AI engineering expertise** to ensure models move seam
 
 ---
 
-## 📊 GitHub Activity
-
-![Iasonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasproudis&show_icons=true&theme=tokyonight)
-
----
-
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/iasonas-christoforos-asproudis-2a07505a/)  
